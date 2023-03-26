@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+            <item android:id="@+id/program"
+                android:checked="true"
+                android:title="프로그램 내부"/>
+            <item android:id="@+id/raw"
+                android:title="Raw 폴더"/>
+            <item android:id="@+id/assets"
+                android:title="Assets 폴더"/>
+            <item android:id="@+id/website"
+                android:title="Web Site"/>
+    </group>
+</menu>

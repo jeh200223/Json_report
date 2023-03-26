@@ -1,0 +1,33 @@
+{
+  "employee": [
+    {
+      "name": "Ava",
+      "gender": "Female",
+      "age": 26,
+      "hobby": [
+        "reading",
+        "music"
+      ]
+    },
+    {
+      "name": "Daniel",
+      "gender": "Male",
+      "age": 35,
+      "hobby": [
+        "reading",
+        "Sports",
+        "music"
+      ]
+    },
+    {
+      "name": "Emily",
+      "gender": "Female",
+      "age": 32,
+      "hobby": [
+        "Sports",
+        "Games",
+        "music"
+      ]
+    }
+  ]
+}

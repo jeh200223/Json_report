@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1087",
+      "name": "홍 길동",
+      "email": "info@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 01023694112",
+        "home": "02 62248645",
+        "office": "031 5709600"
+      }
+    },
+    {
+      "id": "1088",
+      "name": "이 대한",
+      "email": "lee9188@gmail.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 0101236789",
+        "home": "031 5677890",
+        "office": "031 5706590"
+      }
+    }
+  ]
+}
